@@ -1,0 +1,116 @@
+/* .col-3{
+    height: 100vh;
+} */
+.form-control{
+    border-radius: 30px;
+
+}
+.inputs{
+    background-color: #f4f5f8;
+}
+/* .vishal{
+    position: absolute;
+} */
+
+.one{
+    direction: rtl;
+}
+
+.desc{
+    height: 6em;
+    border-radius: 20px;
+    
+}
+.desc2{
+    font-size: small;
+}
+
+.texts{
+    color:orange;
+    background-color: #fff5df;
+}
+.add{
+    color: orange;
+}
+.forms{
+    height:29em;
+}
+.swit{
+    background-color: orange;
+}
+.lbtn{
+    height:3.5em;
+    background-color: orange;
+}
+.lastfluid{
+    background-color: #f4f5f8;
+}
+.yes{
+    padding-left: 0px;
+}
+
+@media (max-width:2566px) and (min-width:2500px){
+    .headings{
+        font-size: 2.3em;
+    }
+    .inputs{
+        height: 77px;
+    }
+    .desc1{
+        height:auto
+    }
+    .add{
+        height: -webkit-fill-available;
+    }
+    .yes{
+        padding-left: 157px;
+    }
+
+  }
+  @media (max-width:1445px) and (min-width:1400px)
+  {
+    
+  }
+  @media (max-width:1030px) and (min-width:1010px)
+  {
+    
+  }
+  @media (max-width:770px) and (min-width:700px)
+  {
+    .headings{
+        font-size: 0.8em;
+    }
+    .tit{
+        font-size: 1em;
+    }
+    .forms{
+        height: 25em;
+    }
+   .desc2{
+    font-size: 0.5em;
+   }
+   .desc3{
+    font-size: 1em;
+   }
+  }
+  @media (max-width:430px) and (min-width:400px){
+    .headings{
+        font-size: 0.3em;
+    }
+    .tit{
+        font-size: 0.5em;
+    }
+    .forms{
+        height: 25em;
+    }
+   .desc2{
+    font-size: 0.2em;
+   }
+   .desc3{
+    font-size: 0.6em;
+  }
+}
+  @media (max-width:380px) and (min-width:300px)
+  {
+    
+  }
