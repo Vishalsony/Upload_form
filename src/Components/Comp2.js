@@ -39,7 +39,13 @@ const Comp2 = () => {
     {/* Third Feild */ }
     <div className='mt-2'>
     <label className='text-dark p-1 '><h6 className='headings'>DESCRIPTION</h6></label>
-    <Custom/>
+    <select class="form-control form-select" aria-label="Default select example">
+  <option selected></option>
+  <option value="1">Fast Food</option>
+  <option value="2">Home Made Food</option>
+  <option value="3">Jain Food</option>
+  <label><i class="fa-solid fa-angle-down"></i></label>
+</select>
 
 </div>
 
